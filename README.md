@@ -37,6 +37,8 @@ Example:
 }
 ```
 
+For API information see the `ioredis` repo: https://github.com/luin/ioredis
+
 ## Building
 
 ```bash
