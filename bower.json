@@ -1,6 +1,6 @@
 {
   "name": "ioredis-chrome",
-  "version": "0.0.0",
+  "version": "1.2.4-1",
   "main": "dist/ioredis.js",
   "authors": [
     "Nathan Caza <mastercactapus@gmail.com>"
