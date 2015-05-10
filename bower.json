@@ -1,0 +1,17 @@
+{
+  "name": "ioredis-chrome",
+  "version": "0.0.0",
+  "main": "dist/ioredis.js",
+  "authors": [
+    "Nathan Caza <mastercactapus@gmail.com>"
+  ],
+  "description": "ioredis for chrome apps",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

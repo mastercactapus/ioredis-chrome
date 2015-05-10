@@ -1,0 +1,17 @@
+{
+  "name": "ioredis-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/entry.js",
+  "scripts": {
+    "build": "webpack --progress -c --optimize-minimize --optimize-occurence-order --optimize-dedupe"
+  },
+  "author": "Nathan Caza",
+  "license": "ISC",
+  "devDependencies": {
+    "chrome-net": "^2.4.3",
+    "ioredis": "^1.2.4",
+    "node-libs-browser": "^0.5.0",
+    "webpack": "^1.9.4"
+  }
+}
